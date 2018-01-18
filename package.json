@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap4",
+  "version": "1.0.0",
+  "description": "Demo bootstrap 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hainndev/bootstrap4.git"
+  },
+  "author": "Hai Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hainndev/bootstrap4/issues"
+  },
+  "homepage": "https://github.com/hainndev/bootstrap4#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.3"
+  }
+}
